@@ -1,0 +1,8 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">eva1.StephanieLazo</string>
+
+    <!-- Etiquetas de texto para la aplicación -->
+    <string name="comida_label">Comida: %1$s</string>
+    <string name="total_label">TOTAL: %1$s</string>
+</resources>
